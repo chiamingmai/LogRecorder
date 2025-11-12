@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_file_permission_not_granted">Write permission not granted.</string>
+    <string name="export_log_file_to_path">Log file exported to %s.</string>
+    <string name="export_log_file_failed">Failed to export log file due to : %s.</string>
+    <string name="unable_to_create_log_file">Unable to create file to %s.</string>
+</resources>

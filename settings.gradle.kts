@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LogRecorder"
+rootProject.name = "LogRecorderProject"
 include(":app")
+include(":LogRecorder")
